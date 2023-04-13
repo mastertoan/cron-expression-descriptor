@@ -1,5 +1,5 @@
 {
-    "name": "panlatent/cron-expression-descriptor",
+    "name": "mastertoan/cron-expression-descriptor",
     "description": "Converts cron expressions into human readable descriptions.",
     "type": "library",
     "license": "MIT",
