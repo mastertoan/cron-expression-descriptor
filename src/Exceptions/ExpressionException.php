@@ -6,7 +6,7 @@
  * @copyright Copyright (c) 2019 panlatent@gmail.com
  */
 
-namespace Panlatent\CronExpressionDescriptor\Exceptions;
+namespace Mastertoan\CronExpressionDescriptor\Exceptions;
 
 use Exception;
 
