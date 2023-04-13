@@ -6,14 +6,14 @@
  * @copyright Copyright (c) 2019 panlatent@gmail.com
  */
 
-namespace Panlatent\CronExpressionDescriptor;
+namespace Mastertoan\CronExpressionDescriptor;
 
 use DateTime;
 use Exception;
-use Panlatent\CronExpressionDescriptor\Enums\CronTimeUnitsEnum;
-use Panlatent\CronExpressionDescriptor\Exceptions\ExpressionException;
-use Panlatent\CronExpressionDescriptor\Utils\ArrayUtils;
-use Panlatent\CronExpressionDescriptor\Utils\StringUtils;
+use Mastertoan\CronExpressionDescriptor\Enums\CronTimeUnitsEnum;
+use Mastertoan\CronExpressionDescriptor\Exceptions\ExpressionException;
+use Mastertoan\CronExpressionDescriptor\Utils\ArrayUtils;
+use Mastertoan\CronExpressionDescriptor\Utils\StringUtils;
 
 /**
  * Class ExpressionParser
