@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Panlatent\\CronExpressionDescriptor\\": "src/"
+            "Mastertoan\\CronExpressionDescriptor\\": "src/"
         }
     },
     "extra": {
