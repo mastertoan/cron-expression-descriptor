@@ -1,6 +1,6 @@
 <?php
 
-namespace Mastertoan\CronExpressionDescriptor\Utils;
+namespace mastertoan\CronExpressionDescriptor\Utils;
 
 trait StringUtils
 {
