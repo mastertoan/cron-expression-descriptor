@@ -1,6 +1,6 @@
 <?php
 
-namespace Mastertoan\CronExpressionDescriptor\Enums;
+namespace mastertoan\CronExpressionDescriptor\Enums;
 
 use MyCLabs\Enum\Enum;
 
