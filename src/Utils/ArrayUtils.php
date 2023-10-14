@@ -1,8 +1,8 @@
 <?php
 
-namespace Mastertoan\CronExpressionDescriptor\Utils;
+namespace mastertoan\CronExpressionDescriptor\Utils;
 
-use Mastertoan\CronExpressionDescriptor\Enums\CronTimeUnitsEnum;
+use mastertoan\CronExpressionDescriptor\Enums\CronTimeUnitsEnum;
 
 trait ArrayUtils
 {
