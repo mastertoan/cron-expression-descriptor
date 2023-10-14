@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Mastertoan\\CronExpressionDescriptor\\": "src/"
+            "mastertoan\\CronExpressionDescriptor\\": "src/"
         }
     },
     "extra": {
